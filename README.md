@@ -70,3 +70,18 @@ Main steps of the algorithm:
 ---
 
 ## Repository Structure
+
+```monte-carlo-pi-project
+│
+├── monte_carlo_pi.ipynb # main notebook with implementation
+├── README.md # project description
+└── requirements.txt # required Python libraries```
+
+---
+
+## Author
+
+## Author
+
+Fantaz24  
+Student project for "Math Concepts for Developers" course.
