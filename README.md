@@ -81,7 +81,5 @@ monte-carlo-pi-project
 
 ## Author
 
-## Author
-
 Fantaz24  
 Student project for "Math Concepts for Developers" course.
